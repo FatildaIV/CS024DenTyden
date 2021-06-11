@@ -1,0 +1,10 @@
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.csprojAssemblyReference.cache
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.CS024DenTydenForm.resources
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.Properties.Resources.resources
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.csproj.GenerateResource.cache
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.csproj.CoreCompileInputs.cache
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\bin\Debug\CS024DenTyden.exe.config
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\bin\Debug\CS024DenTyden.exe
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\bin\Debug\CS024DenTyden.pdb
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.exe
+C:\Users\vojmi\source\repos\CS024DenTyden\CS024DenTyden\obj\Debug\CS024DenTyden.pdb
